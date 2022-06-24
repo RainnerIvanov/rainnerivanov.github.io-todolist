@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rainnerivanov.github.io-todolist/static/css/main.bf68093d.css",
+    "main.js": "/rainnerivanov.github.io-todolist/static/js/main.ea89b956.js",
+    "static/js/787.a5cad257.chunk.js": "/rainnerivanov.github.io-todolist/static/js/787.a5cad257.chunk.js",
+    "index.html": "/rainnerivanov.github.io-todolist/index.html",
+    "main.bf68093d.css.map": "/rainnerivanov.github.io-todolist/static/css/main.bf68093d.css.map",
+    "main.ea89b956.js.map": "/rainnerivanov.github.io-todolist/static/js/main.ea89b956.js.map",
+    "787.a5cad257.chunk.js.map": "/rainnerivanov.github.io-todolist/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf68093d.css",
+    "static/js/main.ea89b956.js"
+  ]
+}
